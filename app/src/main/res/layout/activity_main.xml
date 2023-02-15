@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/purple_200"
+        android:gravity="center"
+
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="BIENVENIDO"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="30pt"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/etCorreo"
+            android:layout_width="150pt"
+            android:layout_height="20pt"
+            android:layout_marginTop="10pt"
+            android:hint="Ingrese correo"
+            android:inputType="textEmailAddress"
+            android:paddingVertical="5px"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textColorHint="@color/white" />
+
+        <EditText
+            android:id="@+id/etClave"
+            android:layout_width="150pt"
+            android:layout_height="20pt"
+            android:layout_marginVertical="5pt"
+            android:hint="Ingrese contraseña"
+            android:inputType="textPassword"
+            android:paddingVertical="5px"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textColorHint="@color/white" />
+
+        <Spinner
+            android:id="@+id/spPerfil"
+            android:layout_width="140pt"
+            android:layout_height="20pt"
+            android:background="@drawable/spinner_round"
+            android:backgroundTint="@color/white"
+            android:popupBackground="@drawable/spinner_round"
+            android:textAlignment="center" />
+
+
+        <Button
+            android:id="@+id/btnIniciar"
+            android:layout_width="100pt"
+            android:layout_height="20pt"
+            android:layout_marginVertical="5pt"
+            android:background="@drawable/button_rounded"
+            android:padding="2pt"
+            android:text="Iniciar " />
+
+        <Button
+            android:id="@+id/btnRegistrar"
+            android:layout_width="100pt"
+            android:layout_height="20pt"
+            android:background="@drawable/button_rounded"
+            android:padding="2pt"
+            android:text="Registrarse" />
+
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

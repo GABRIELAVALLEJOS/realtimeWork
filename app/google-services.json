@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "768122991844",
+    "firebase_url": "https://moviles-c8b01-default-rtdb.firebaseio.com",
+    "project_id": "moviles-c8b01",
+    "storage_bucket": "moviles-c8b01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768122991844:android:fa8d1c538dcde31ced28f1",
+        "android_client_info": {
+          "package_name": "com.example.firebaseautentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768122991844-k8ms96ttq9evcgn9tnohc23qan385esg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-vS6YUAnwR0cp5RUXJMzXsHG0ATdsQJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768122991844-d7hr8utre0r034rdsbju4c38mr9lv7rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768122991844:android:484182098233c03fed28f1",
+        "android_client_info": {
+          "package_name": "com.example.firebaseautentications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768122991844-215arli48fmrgsgs77ohmvjt0lps321a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseautentications",
+            "certificate_hash": "78b6fab8ad27deb55900d0a8faf6216831121471"
+          }
+        },
+        {
+          "client_id": "768122991844-k8ms96ttq9evcgn9tnohc23qan385esg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-vS6YUAnwR0cp5RUXJMzXsHG0ATdsQJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768122991844-d7hr8utre0r034rdsbju4c38mr9lv7rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768122991844:android:ffe67969113d8a0ced28f1",
+        "android_client_info": {
+          "package_name": "com.example.realtimework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768122991844-k8ms96ttq9evcgn9tnohc23qan385esg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-vS6YUAnwR0cp5RUXJMzXsHG0ATdsQJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768122991844-d7hr8utre0r034rdsbju4c38mr9lv7rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
